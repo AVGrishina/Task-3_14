@@ -31,7 +31,7 @@ LICENSE: [MIT](./license.md)
 
 6.Основные команды по ветвлению и слиянию
 
-- [git branch](/git%20branch.md)
+- [git branch](/)
 - [git checkout](/git%20checkout.md)
 - [git merge](/git%20merge.md)
 - [git log](//git%20log.md)
