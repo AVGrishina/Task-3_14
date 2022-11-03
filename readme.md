@@ -31,10 +31,10 @@ LICENSE: [MIT](./license.md)
 
 6.Основные команды по ветвлению и слиянию
 
-- [git branch](/)
+- [git branch](/git%20branch.md)
 - [git checkout](/git%20checkout.md)
 - [git merge](/git%20merge.md)
-- [git log](//git%20log.md)
+- [git log](/git%20log.md)
 - [git stash](/git%20stash.md)
 - [git tag](/git%20tag.md)
 
