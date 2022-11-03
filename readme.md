@@ -15,7 +15,7 @@ LICENSE: [MIT](./license.md)
 3. [Первоначальная настройка](/Pervonachal'naja%20nastroika.md)
 
 4. [Начало работы](/Nachalo%20raboti.md)
-5. Основные комманды
+5. Основные команды
 
 - [git add](/git%20add.md)
 - [git commit](/git%20commit.md)
